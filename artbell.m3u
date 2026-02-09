@@ -1,16 +1,6 @@
 #EXTM3U
-
-#EXTINF:-1,Art Bell 24/7 (Starter)
 https://a5.asurahosting.com:6560/radio.mp3
-
-#EXTINF:-1,U7 Radio – Art Bell
 http://stream1.u7radio.org:8000/
-
-#EXTINF:-1,Ultimate Art Bell
 http://stream.willstare.com:8450/
-
-#EXTINF:-1,Dreamland Radio
 http://142.93.123.204:8000/stream
-
-#EXTINF:-1,Art Bell All Day
 http://65.21.202.84:9040/stream
